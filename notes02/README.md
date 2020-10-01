@@ -28,3 +28,10 @@
 
 ### Total Cost of Ownership: 
 -  direct and indirect costs and benefits related to the purchase of any IT component. " The goal is a final figure that will reflect the true purchase price, all things considered." 
+
+### AWS Organizations 
+- a account management service that enables the consolidation of multiple AWS accounts into an organization that you create and manage. Also includes account management and  billing capabilities of all accounts which allows you to keep a better eye on budgets, security, and compliance needs of your business. 
+
+### Steps to create na organization 
+- To create an organization, you create one of the member accounts in your organization and invite the other account. Then you use the allow list technique to delegate administors that monitor specific actions and services. 
+
