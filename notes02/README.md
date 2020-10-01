@@ -24,7 +24,7 @@
 - VPC, IAM, Elastic Beanstalk, Cloudformation 
 
 ### What is IT Infrastructure ? 
-- Components required to operate and manage IT systems. The compenents include: software (applications, OS), hardware (servers, datacenters, computers...), Networking (internet, firewalls, security) =. 
+- Components required to operate and manage IT systems. The compenents include: software (applications, OS), hardware (servers, datacenters, computers...), Networking (internet, firewalls, security). 
 
 ### Total Cost of Ownership: 
 -  direct and indirect costs and benefits related to the purchase of any IT component. " The goal is a final figure that will reflect the true purchase price, all things considered." 
@@ -35,3 +35,9 @@
 ### Steps to create na organization 
 - To create an organization, you create one of the member accounts in your organization and invite the other account. Then you use the allow list technique to delegate administors that monitor specific actions and services. 
 
+### Limits of organizations
+- guidelines for names that you create in AWS Organizations: They must be composed of Unicode characters and they must not exceed 250 characters in length. 
+
+### Facts that I learned 
+- Amazon offers free access to some services with limitations. This is useful for a consumer because they can just feel it out and have no commitment. 
+- AWS also offers pay less when you use more. This is important because if consumers need more GB's, they are saving in the long run wtih AWS. 
