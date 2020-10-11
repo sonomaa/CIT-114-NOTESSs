@@ -63,7 +63,12 @@
 - Differences: Kubernetes is meant to run across a cluster while Docker runs on a single node.
 ### Serverless Computing: 
 - Serverless computing is a method of providing backend services on an as-used basis. Serverless architecture allows users to write and deploy code without the hassle of worrying about the underlying infrastructure. Serverless computing allows developers to purchase backend services on a flexible ‘pay-as-you-go’ basis, meaning that developers only have to pay for the services they use. The frontend is the part of the application that users see and interact with, such as the visual layout. The backend is the part that the user doesn’t see; this includes the server where the application's files live. 
-
+### Quotes I found Interesting: 
+- "Virtual hardware’ may sound like a bit of an oxymoron, but it works by mapping to real hardware on the host computer."
+- "This guest machine contains both the application and whatever it needs to run that application (e.g. system binaries and libraries)."
+### Facts I learned : 
+- A hypervisor is a piece of software, hardware, or firmware that VMs run on top of. The computers they run on are referred to as "host computers" 
+- You can have two or more OSes running on one computer. In virtualization, a piece of software behaves as if it were an independent computer. This piece of software is called a virtual machine, also known as a ‘guest’ computer. 
 
 
 
