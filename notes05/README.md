@@ -37,6 +37,6 @@ one or more security groups, a MAC address, a source/destination check flag, a d
 
 ### NEW FACTS
 - Companies use VPNs to allow employees to work in different countries. A VPN allows for the employee to have the same computing visual as they would on the job site. 
-- NAT gateways provide better availability and bandwidth over NAT instances.
+- NAT gateways provide better availability and bandwidth over NAT instances. Meaning that managed NAT Gateway provides built-in redundancy for high availability (using the multi-AZ configuration) compared to the NAT instance which use just a script to manage failover. 
 
-### QUESTIONS: 
+
