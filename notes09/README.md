@@ -29,4 +29,6 @@
 ### Questions I still have: 
 - Are all components that AWS has to offer encompassed by the 5 Pillars? 
 - Can reliability also mean availablity ? 
-
+### Quotes: 
+- "AWS Trusted Advisor is not focused on just one service and it is not just a security tool."
+- "This Framework provides a consistent approach for customers and partners to evaluate architectures, has been used in tens of thousands of workload reviews conducted by the AWS solutions architecture team, and provides guidance to help implement designs that scale with application needs over time." 
